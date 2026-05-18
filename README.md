@@ -80,6 +80,6 @@ Generated figures are written to `artifacts/`.
 
 ## Notebook
 
-Open `upload_final_actlearn.ipynb` from the repository root. It imports the
+Open `upload_final_actlearn.ipynb` from /legacy. It imports the
 package from `src/`, defines the default configuration, and runs the same
 experiment as the CLI.
